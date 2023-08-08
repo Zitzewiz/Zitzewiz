@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A passionate industrial engineer focused on robotics and data science</h3>
+<h3 align="center">A passionate industrial engineer 
+  focused on robotics and data science</h3>
 
 - 👀 I’m interested in **Robotics, Machine Learning, and 3D Printing**
 
