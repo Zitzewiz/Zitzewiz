@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zitzewiz?tab=repositories](https://github.com/Zitzewiz?tab=repositories)
 
-- 📫 How to reach me **vzitzewitz@yahoo.com**
+- 📫 How to reach me: Throw a message in a bottle into the spring of "Isar" river. Or write me a mail at **vzitzewitz@yahoo.com**
 
 - ⚡ Fun fact **I am taller than you might expect**
 
