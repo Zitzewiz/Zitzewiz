@@ -2,7 +2,7 @@
 <h3 align="center">A passionate industrial engineer 
   focused on robotics and data science</h3>
 
-- 👀 I’m interested in **Robotics, Machine Learning, and 3D Printing**
+- 👀 I’m interested in **Robotics, Deep Learning, and 3D Printing**
 
 - 🌱 I’m currently learning **Data Science**
 
